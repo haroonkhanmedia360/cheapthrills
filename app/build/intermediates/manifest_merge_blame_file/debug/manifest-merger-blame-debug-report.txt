@@ -6,33 +6,33 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
-8-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml
+8-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="32" />
-9-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml
+9-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-11-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:6:5-79
-11-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:6:22-76
+11-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:6:5-79
+11-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:6:22-76
 12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-12-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:7:5-81
-12-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:7:22-78
+12-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:7:5-81
+12-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:7:22-78
 13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-13-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:8:5-80
-13-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:8:22-77
+13-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:8:5-80
+13-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:8:22-77
 14    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-14-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:9:5-79
-14-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:9:22-76
+14-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:9:5-79
+14-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:9:22-76
 15    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-15-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:10:5-81
-15-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:10:22-78
+15-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:10:5-81
+15-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:10:22-78
 16    <uses-permission android:name="android.permission.INTERNET" />
-16-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:11:5-67
-16-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:11:22-64
+16-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:11:5-67
+16-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:11:22-64
 17    <!-- <uses-permission android:name="android.permission.RECORD_AUDIO" /> -->
 18    <!-- <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" /> -->
 19    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
-19-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:17:5-77
-19-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:17:22-74
+19-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:17:5-77
+19-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:17:22-74
 20
 21    <uses-feature
 21-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\Ms6\.gradle\caches\transforms-3\00af9be7319f49b58a6f1c9b126b63c7\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:26:5-28:35
@@ -102,63 +102,63 @@
 54-->[androidx.work:work-runtime:2.7.1] C:\Users\Ms6\.gradle\caches\transforms-3\0699f516ca20ee540a4f8d4add939781\transformed\work-runtime-2.7.1\AndroidManifest.xml:27:22-78
 55
 56    <application
-56-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:19:5-140:19
+56-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:19:5-140:19
 57        android:name="cheap.thrills.UniversalResortApplication"
-57-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:20:9-64
+57-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:20:9-64
 58        android:allowBackup="true"
-58-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:21:9-35
+58-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:21:9-35
 59        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 59-->[androidx.core:core:1.8.0] C:\Users\Ms6\.gradle\caches\transforms-3\78cee7f3b42c0c01040124963bf8a0c0\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
 60        android:debuggable="true"
 61        android:icon="@mipmap/ic_logo_cheapthrills"
-61-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:22:9-52
+61-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:22:9-52
 62        android:label="@string/app_name"
-62-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:23:9-41
+62-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:23:9-41
 63        android:requestLegacyExternalStorage="true"
-63-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:24:9-52
+63-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:24:9-52
 64        android:roundIcon="@mipmap/ic_logo_cheapthrills_round"
-64-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:25:9-63
+64-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:25:9-63
 65        android:screenOrientation="portrait"
-65-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:26:9-45
+65-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:26:9-45
 66        android:supportsRtl="true"
-66-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:27:9-35
+66-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:27:9-35
 67        android:theme="@style/AppTheme"
-67-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:28:9-40
+67-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:28:9-40
 68        android:usesCleartextTraffic="true" >
-68-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:29:9-44
+68-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:29:9-44
 69        <service
-69-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:30:9-33:47
+69-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:30:9-33:47
 70            android:name="cheap.thrills.location.LocationService"
-70-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:31:13-53
+70-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:31:13-53
 71            android:enabled="true"
-71-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:32:13-35
+71-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:32:13-35
 72            android:exported="true" />
-72-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:33:13-36
+72-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:33:13-36
 73
 74        <activity
-74-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:35:9-38:52
+74-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:35:9-38:52
 75            android:name="cheap.thrills.activities.TicketTempletActivity3"
-75-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:36:13-75
+75-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:36:13-75
 76            android:exported="false"
-76-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:37:13-37
+76-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:37:13-37
 77            android:screenOrientation="portrait" />
-77-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:38:13-49
+77-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:38:13-49
 78        <activity
-78-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:39:9-42:52
+78-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:39:9-42:52
 79            android:name="cheap.thrills.activities.TicketTempletActivity2"
-79-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:40:13-75
+79-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:40:13-75
 80            android:exported="false"
-80-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:41:13-37
+80-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:41:13-37
 81            android:screenOrientation="portrait" />
-81-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:42:13-49
+81-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:42:13-49
 82        <activity
-82-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:43:9-55:20
+82-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:43:9-55:20
 83            android:name="cheap.thrills.activities.TicketTempletActivity"
-83-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:44:13-74
+83-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:44:13-74
 84            android:exported="false"
-84-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:45:13-37
+84-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:45:13-37
 85            android:screenOrientation="portrait" >
-85-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:46:13-49
+85-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:46:13-49
 86
 87            <!--
 88            <intent-filter>
@@ -169,84 +169,84 @@
 93            -->
 94        </activity>
 95        <activity
-95-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:56:9-65:20
+95-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:56:9-65:20
 96            android:name="cheap.thrills.SplashActivity"
-96-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:57:13-56
+96-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:57:13-56
 97            android:exported="true"
-97-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:58:13-36
+97-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:58:13-36
 98            android:screenOrientation="portrait" >
-98-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:59:13-49
+98-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:59:13-49
 99            <intent-filter>
-99-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:60:13-64:29
+99-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:60:13-64:29
 100                <action android:name="android.intent.action.MAIN" />
-100-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:61:17-69
-100-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:61:25-66
+100-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:61:17-69
+100-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:61:25-66
 101
 102                <category android:name="android.intent.category.LAUNCHER" />
-102-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:63:17-77
-102-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:63:27-74
+102-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:63:17-77
+102-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:63:27-74
 103            </intent-filter>
 104        </activity>
 105        <activity
-105-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:66:9-71:55
+105-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:66:9-71:55
 106            android:name="cheap.thrills.activities.DrawerActivity"
-106-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:67:13-67
+106-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:67:13-67
 107            android:exported="false"
-107-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:68:13-37
+107-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:68:13-37
 108            android:screenOrientation="portrait"
-108-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:69:13-49
+108-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:69:13-49
 109            android:theme="@style/AppTheme"
-109-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:70:13-44
+109-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:70:13-44
 110            android:windowSoftInputMode="adjustPan" />
-110-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:71:13-52
+110-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:71:13-52
 111        <activity
-111-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:72:9-77:55
+111-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:72:9-77:55
 112            android:name="cheap.thrills.activities.CreateActivity"
-112-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:73:13-67
+112-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:73:13-67
 113            android:exported="false"
-113-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:74:13-37
+113-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:74:13-37
 114            android:screenOrientation="portrait"
-114-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:75:13-49
+114-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:75:13-49
 115            android:theme="@style/AppTheme"
-115-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:76:13-44
+115-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:76:13-44
 116            android:windowSoftInputMode="adjustPan" />
-116-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:77:13-52
+116-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:77:13-52
 117        <activity
-117-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:78:9-83:55
+117-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:78:9-83:55
 118            android:name="cheap.thrills.activities.AlertActivity"
-118-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:79:13-66
+118-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:79:13-66
 119            android:exported="false"
-119-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:80:13-37
+119-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:80:13-37
 120            android:screenOrientation="portrait"
-120-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:81:13-49
+120-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:81:13-49
 121            android:theme="@style/AppTheme"
-121-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:82:13-44
+121-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:82:13-44
 122            android:windowSoftInputMode="adjustPan" />
-122-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:83:13-52
+122-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:83:13-52
 123        <activity
-123-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:84:9-89:55
+123-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:84:9-89:55
 124            android:name="cheap.thrills.activities.SearchActivity"
-124-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:85:13-67
+124-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:85:13-67
 125            android:exported="false"
-125-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:86:13-37
+125-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:86:13-37
 126            android:screenOrientation="portrait"
-126-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:87:13-49
+126-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:87:13-49
 127            android:theme="@style/AppTheme"
-127-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:88:13-44
+127-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:88:13-44
 128            android:windowSoftInputMode="adjustPan" />
-128-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:89:13-52
+128-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:89:13-52
 129        <activity
-129-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:90:9-104:20
+129-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:90:9-104:20
 130            android:name="cheap.thrills.activities.SignInActivity"
-130-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:91:13-67
+130-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:91:13-67
 131            android:exported="false"
-131-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:92:13-37
+131-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:92:13-37
 132            android:screenOrientation="portrait"
-132-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:93:13-49
+132-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:93:13-49
 133            android:theme="@style/AppTheme"
-133-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:94:13-44
+133-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:94:13-44
 134            android:windowSoftInputMode="adjustPan" >
-134-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:95:13-52
+134-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:95:13-52
 135
 136            <!--
 137            <intent-filter>
@@ -257,71 +257,71 @@
 142            -->
 143        </activity>
 144        <activity
-144-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:105:9-110:55
+144-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:105:9-110:55
 145            android:name="cheap.thrills.activities.BaseActivity"
-145-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:106:13-65
+145-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:106:13-65
 146            android:exported="false"
-146-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:107:13-37
+146-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:107:13-37
 147            android:screenOrientation="portrait"
-147-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:108:13-49
+147-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:108:13-49
 148            android:theme="@style/AppTheme"
-148-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:109:13-44
+148-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:109:13-44
 149            android:windowSoftInputMode="adjustPan" />
-149-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:110:13-52
+149-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:110:13-52
 150        <activity
-150-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:111:9-116:55
+150-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:111:9-116:55
 151            android:name="cheap.thrills.activities.ForgotPasswordActivity"
-151-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:112:13-75
+151-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:112:13-75
 152            android:exported="false"
-152-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:113:13-37
+152-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:113:13-37
 153            android:screenOrientation="portrait"
-153-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:114:13-49
+153-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:114:13-49
 154            android:theme="@style/AppTheme"
-154-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:115:13-44
+154-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:115:13-44
 155            android:windowSoftInputMode="adjustPan" />
-155-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:116:13-52
+155-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:116:13-52
 156        <activity
-156-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:117:9-120:52
+156-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:117:9-120:52
 157            android:name="cheap.thrills.activities.WalletActivity"
-157-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:118:13-67
+157-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:118:13-67
 158            android:exported="false"
-158-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:119:13-37
+158-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:119:13-37
 159            android:screenOrientation="portrait" />
-159-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:120:13-49
+159-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:120:13-49
 160        <activity
-160-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:121:9-125:58
+160-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:121:9-125:58
 161            android:name="cheap.thrills.activities.OrderIdLoginActivity"
-161-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:122:13-73
+161-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:122:13-73
 162            android:exported="false"
-162-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:123:13-37
+162-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:123:13-37
 163            android:screenOrientation="portrait"
-163-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:124:13-49
+163-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:124:13-49
 164            android:windowSoftInputMode="adjustResize" /> <!-- <service android:name=".firebaseServices.InstanceIdService"> -->
-164-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:125:13-55
+164-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:125:13-55
 165        <!-- <intent-filter> -->
 166        <!-- <action android:name="com.google.firebase.INSTANCE_ID_EVENT" /> -->
 167        <!-- </intent-filter> -->
 168        <!-- </service> -->
 169        <activity
-169-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:130:9-133:52
+169-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:130:9-133:52
 170            android:name="cheap.thrills.activities.WalletDetailsActivity"
-170-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:131:13-74
+170-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:131:13-74
 171            android:exported="false"
-171-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:132:13-37
+171-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:132:13-37
 172            android:screenOrientation="portrait" />
-172-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:133:13-49
+172-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:133:13-49
 173        <activity
-173-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:134:9-139:47
+173-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:134:9-139:47
 174            android:name="cheap.thrills.activities.MyWalletScreenActivity"
-174-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:135:13-75
+174-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:135:13-75
 175            android:exported="false"
-175-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:136:13-37
+175-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:136:13-37
 176            android:label="@string/title_activity_my_wallet_screen"
-176-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:137:13-68
+176-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:137:13-68
 177            android:screenOrientation="portrait"
-177-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:138:13-49
+177-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:138:13-49
 178            android:theme="@style/AppTheme" />
-178-->D:\haroon\freelance\ctfinal\app\src\main\AndroidManifest.xml:139:13-44
+178-->D:\haroon\freelance\cheapthrills\app\src\main\AndroidManifest.xml:139:13-44
 179        <activity
 179-->[com.google.android.gms:play-services-auth:10.0.1] C:\Users\Ms6\.gradle\caches\transforms-3\adf7a3044d7ed34d223c92f7f07cfb9c\transformed\jetified-play-services-auth-10.0.1\AndroidManifest.xml:20:9-189
 180            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"

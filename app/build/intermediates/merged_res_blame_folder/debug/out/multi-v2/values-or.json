@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-or\\values-or.xml",
+            "outputFile": "D:\\haroon\\freelance\\cheapthrills\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-or\\values-or.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Ms6\\.gradle\\caches\\transforms-3\\607111b4c37657c9e548a37d85828bf2\\transformed\\jetified-play-services-places-17.0.0\\res\\values-or\\values.xml",

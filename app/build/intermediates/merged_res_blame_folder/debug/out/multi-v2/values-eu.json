@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-eu\\values-eu.xml",
+            "outputFile": "D:\\haroon\\freelance\\cheapthrills\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-eu\\values-eu.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Ms6\\.gradle\\caches\\transforms-3\\7df25974b063f749eb070049063832cc\\transformed\\jetified-zxing-android-embedded-3.2.0\\res\\values-eu\\values-eu.xml",
