@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: io.github.rupinderjeet:kprogresshud:1.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/279866ee1b3b9bcb5f9b2bd9ffaf31b6/transformed/jetified-kprogresshud-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/279866ee1b3b9bcb5f9b2bd9ffaf31b6/transformed/jetified-kprogresshud-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/279866ee1b3b9bcb5f9b2bd9ffaf31b6/transformed/jetified-kprogresshud-1.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.rupinderjeet/kprogresshud/1.0.0/57f5f897f59ae11264e3e6c15259de1f1f335c87/kprogresshud-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

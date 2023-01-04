@@ -1,0 +1,1734 @@
+[
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\layout_app_bar_drawer2.xml.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\layout\\app_bar_drawer2.xml"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_btn.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-mdpi\\icon_btn.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_themepark.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\icon_themepark.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_noti.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_noti.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_myinterest.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_myinterest.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_direction.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_direction.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_contact.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_contact.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_back_home.jpg.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable\\back_home.jpg"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_baseline_keyboard_backspace_white_24.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_keyboard_backspace_white_24.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_baseline_keyboard_arrow_up_black_36.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_keyboard_arrow_up_black_36.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\layout_recyclerviewuserlist.xml.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\layout\\recyclerviewuserlist.xml"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_orderfood.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-mdpi\\icon_orderfood.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_signout.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xhdpi\\icon_signout.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_scan.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-hdpi\\icon_scan.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_logo_knottsberry_farm.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable\\logo_knottsberry_farm.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_animal.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-hdpi\\icon_animal.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_communication.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xhdpi\\icon_communication.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_logo_discovery_kingdom.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable\\logo_discovery_kingdom.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_logo_cheapthrills_round.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_logo_cheapthrills_round.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_logo_worlds_of_fun.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable\\logo_worlds_of_fun.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_photoid.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\icon_photoid.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_onsitehotel.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_onsitehotel.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_admin.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\icon_admin.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_scan.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_scan.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_noti.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\icon_noti.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_photoid.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_photoid.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_logo_valley_fair.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable\\logo_valley_fair.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_baseline_search_white_24.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-hdpi\\baseline_search_white_24.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_universal.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_universal.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_orderfood.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-hdpi\\icon_orderfood.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_extras.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-hdpi\\icon_extras.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_toy.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\icon_toy.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_logo_login.jpg.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable\\logo_login.jpg"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_orderfood.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xhdpi\\icon_orderfood.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_search.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-hdpi\\icon_search.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\layout_slidinglayout.xml.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\layout\\slidinglayout.xml"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_lostandfound.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-mdpi\\icon_lostandfound.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_tickets.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-mdpi\\icon_tickets.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_close.xml.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_close.xml"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_bg_attendee.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\bg_attendee.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_ex.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\icon_ex.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_blur_cf.jpg.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable\\bg_blur_cf.jpg"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_app_icon_orlando_resort.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable\\app_icon_orlando_resort.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_baseline_keyboard_arrow_down_black_36.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_keyboard_arrow_down_black_36.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_contact.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\icon_contact.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_specialoffers.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_specialoffers.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_animal.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xhdpi\\icon_animal.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_contactinfo.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_contactinfo.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_bg_lt.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xhdpi\\bg_lt.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_scan.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\icon_scan.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_parking.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-hdpi\\icon_parking.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\layout_recyclerview_mywallet.xml.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\layout\\recyclerview_mywallet.xml"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_home.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-mdpi\\icon_home.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_logo_cheapthrills_foreground.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_logo_cheapthrills_foreground.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_bg_lt.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-mdpi\\bg_lt.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_placeholder.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xhdpi\\placeholder.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_bg_redemption.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-ldpi\\bg_redemption.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_home.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xhdpi\\icon_home.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_watch.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\icon_watch.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_logo_cheapthrills_foreground.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\mipmap-mdpi\\ic_logo_cheapthrills_foreground.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_myinterest.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-hdpi\\icon_myinterest.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_bg_attendee.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-mdpi\\bg_attendee.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_admin.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xhdpi\\icon_admin.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_orlando.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-mdpi\\icon_orlando.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_shadow.xml.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable\\bg_shadow.xml"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_logo_cheapthrills.xml.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_logo_cheapthrills.xml"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_rides.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\icon_rides.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_close.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_close.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_ticket_templet2.xml.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\layout\\activity_ticket_templet2.xml"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_password.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xhdpi\\icon_password.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_back_arrow_24dp.xml.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable\\ic_back_arrow_24dp.xml"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_buy.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xhdpi\\icon_buy.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_password.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\icon_password.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_signout.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\icon_signout.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_baseline_keyboard_backspace_white_24.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xhdpi\\baseline_keyboard_backspace_white_24.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_orderfood.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\icon_orderfood.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_volcano.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-hdpi\\icon_volcano.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_strokesearch.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-hdpi\\icon_strokesearch.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_bluecircle.xml.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable\\bluecircle.xml"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_baseline_search_white_24.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xhdpi\\baseline_search_white_24.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_address.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-hdpi\\icon_address.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_bg_lt.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-ldpi\\bg_lt.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_contact.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xhdpi\\icon_contact.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_logo_over_texas.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable\\logo_over_texas.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_baseline_search_white_24.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_search_white_24.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_gues_services.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-hdpi\\icon_gues_services.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_password.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-hdpi\\icon_password.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_logo_cheapthrills.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_logo_cheapthrills.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\layout_nav_header_drawer2.xml.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\layout\\nav_header_drawer2.xml"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_fistad.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_fistad.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\anim_rotate_backward.xml.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\anim\\rotate_backward.xml"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_signout.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_signout.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_two_park_logo_center.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-ldpi\\two_park_logo_center.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_logo_michigans_adventure.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable\\logo_michigans_adventure.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_blur.jpg.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable\\bg_blur.jpg"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_fistad.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-mdpi\\icon_fistad.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_themepark.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-hdpi\\icon_themepark.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_lostandfound.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\icon_lostandfound.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_orlando.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xhdpi\\icon_orlando.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_rides.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xhdpi\\icon_rides.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_logo_cheapthrills.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\mipmap-xhdpi\\ic_logo_cheapthrills.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_search.xml.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_ex.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-mdpi\\icon_ex.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_baseline_keyboard_arrow_up_black_36.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-mdpi\\baseline_keyboard_arrow_up_black_36.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_toy.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-mdpi\\icon_toy.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_doller.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\icon_doller.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_xxxhdpi.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_xxxhdpi.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_document.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_document.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_ticket.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-hdpi\\icon_ticket.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_ride.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\icon_ride.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_parking.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xhdpi\\icon_parking.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_direction.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-hdpi\\icon_direction.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_baseline_search_white_24.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-mdpi\\baseline_search_white_24.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_gues_services.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\icon_gues_services.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_doller.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_doller.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_details.xml.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\layout\\fragment_details.xml"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_locker.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xhdpi\\icon_locker.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_uoap_icon.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-ldpi\\uoap_icon.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_close_24dp.xml.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable\\ic_close_24dp.xml"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\layout_ticketviewpager.xml.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\layout\\ticketviewpager.xml"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_wallet_circle.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\icon_wallet_circle.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_setting.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\icon_setting.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_logo_great_adventure.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable\\logo_great_adventure.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_doller.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-mdpi\\icon_doller.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_ride.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-mdpi\\icon_ride.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_et.xml.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable\\bg_et.xml"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_orlando.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\icon_orlando.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_themepark.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xhdpi\\icon_themepark.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_dates.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-mdpi\\icon_dates.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_bg_attendee.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-ldpi\\bg_attendee.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_logo_frontier_city.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable\\logo_frontier_city.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_signout.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-mdpi\\icon_signout.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_password.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-mdpi\\icon_password.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_notification.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-hdpi\\icon_notification.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\font_munaqqat_for_kids.ttf.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\font\\munaqqat_for_kids.ttf"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_dates.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xhdpi\\icon_dates.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_strokesearch.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_strokesearch.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_island.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-hdpi\\icon_island.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_direction.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-mdpi\\icon_direction.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_ticket.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\icon_ticket.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_logo_cheapthrills_foreground.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\mipmap-xhdpi\\ic_logo_cheapthrills_foreground.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_citywalk.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\icon_citywalk.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_dining.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-mdpi\\icon_dining.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_setting.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xhdpi\\icon_setting.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_island.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_island.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_notification.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xhdpi\\icon_notification.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_btn.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-hdpi\\icon_btn.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_card_xxxhdpi.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-hdpi\\card_xxxhdpi.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_contact.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-hdpi\\icon_contact.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_help.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_help.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_six_flags.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable\\bg_six_flags.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_island.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-mdpi\\icon_island.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_address.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_address.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_fav.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\icon_fav.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_scannerticket.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xhdpi\\scannerticket.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_baseline_keyboard_arrow_up_black_36.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_keyboard_arrow_up_black_36.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_logo_cheapthrills.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\mipmap-mdpi\\ic_logo_cheapthrills.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_logo_over_georgia.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable\\logo_over_georgia.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_parking.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\icon_parking.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_barcode.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-hdpi\\icon_barcode.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_setting.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-mdpi\\icon_setting.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_btn.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_btn.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_map_imagewithcut.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\map_imagewithcut.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_volcano.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-mdpi\\icon_volcano.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\layout_item_ticket3.xml.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\layout\\item_ticket3.xml"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_arrow.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\icon_arrow.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_smoking.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\icon_smoking.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_bluerectangle.xml.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable\\bluerectangle.xml"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_watch.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xhdpi\\icon_watch.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_drawer2.xml.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\layout\\activity_drawer2.xml"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_shows.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_shows.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_bg_shadow2.xml.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-hdpi\\bg_shadow2.xml"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_logo_cheapthrills_foreground.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_logo_cheapthrills_foreground.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_buy.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\icon_buy.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_logo_cheapthrills_round.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\mipmap-mdpi\\ic_logo_cheapthrills_round.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_bg_redemption.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-hdpi\\bg_redemption.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_logo_fiesta_texas.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable\\logo_fiesta_texas.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_logo_great_america.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable\\logo_great_america.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_cf_dark.jpeg.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable\\bg_cf_dark.jpeg"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_watch.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-mdpi\\icon_watch.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_dining.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\icon_dining.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_shadow.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\icon_shadow.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_personal.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-hdpi\\icon_personal.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_rightarrow.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\icon_rightarrow.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_universal.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-mdpi\\icon_universal.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_logo_cheapthrills_round.xml.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_logo_cheapthrills_round.xml"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\layout_content_drawer2.xml.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\layout\\content_drawer2.xml"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_password.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_password.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\xml_network_security_config.xml.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_shows.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xhdpi\\icon_shows.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_dining.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_dining.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_forgot_password.xml.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_watch.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_watch.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_mapnotcut.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\mapnotcut.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_search.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xhdpi\\icon_search.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_island.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\icon_island.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_fistad.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xhdpi\\icon_fistad.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_smoking.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-mdpi\\icon_smoking.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_dates.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_dates.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_logo_hurricane_harbor.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable\\logo_hurricane_harbor.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_communication.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\icon_communication.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_photoid.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-mdpi\\icon_photoid.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_strokesearch.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xhdpi\\icon_strokesearch.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_arrow.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-hdpi\\icon_arrow.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\layout_item_ticket2.xml.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\layout\\item_ticket2.xml"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_orderfood.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_orderfood.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_themepark.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-mdpi\\icon_themepark.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_shows.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-mdpi\\icon_shows.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_photoid.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xhdpi\\icon_photoid.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_smoking.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xhdpi\\icon_smoking.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_tickets.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_tickets.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_notification.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_notification.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_notification.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-mdpi\\icon_notification.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_bg_attendee.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\bg_attendee.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_arrow.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_arrow.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_ic_close.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_close.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_baseline_keyboard_arrow_down_black_36.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-mdpi\\baseline_keyboard_arrow_down_black_36.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_amenties.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\icon_amenties.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_extras.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-mdpi\\icon_extras.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_base.xml.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\layout\\fragment_base.xml"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_ex.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_ex.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_address.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-mdpi\\icon_address.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_themepark.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_themepark.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_contactinfo.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\icon_contactinfo.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_volcano.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\icon_volcano.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_wallet_details.xml.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\layout\\activity_wallet_details.xml"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_personal.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xhdpi\\icon_personal.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_direction.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\icon_direction.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_extras.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\icon_extras.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_toy.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xhdpi\\icon_toy.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_baseline_search_white_24.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_search_white_24.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_extras.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_extras.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_logo_cheapthrills.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_logo_cheapthrills.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_bg_attendee.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-hdpi\\bg_attendee.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_dining.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xhdpi\\icon_dining.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_search.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-mdpi\\icon_search.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_volcano.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xhdpi\\icon_volcano.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_barcode.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\icon_barcode.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_baseline_keyboard_arrow_down_black_36.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_keyboard_arrow_down_black_36.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_logo_magic_mountain.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable\\logo_magic_mountain.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_barcode.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_barcode.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_logo_cheapthrills.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\mipmap-hdpi\\ic_logo_cheapthrills.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_signout.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-hdpi\\icon_signout.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_communication.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-hdpi\\icon_communication.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_wallet.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xhdpi\\icon_wallet.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_onsitehotel.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\icon_onsitehotel.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_myinterest.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-mdpi\\icon_myinterest.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_search.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\icon_search.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_logo_dorney_park.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable\\logo_dorney_park.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_baseline_keyboard_backspace_white_24.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-hdpi\\baseline_keyboard_backspace_white_24.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_personal.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\icon_personal.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_bg_attendee.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xhdpi\\bg_attendee.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_universal.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\icon_universal.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_dialog.xml.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable\\bg_dialog.xml"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_locker.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_locker.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_doller.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xhdpi\\icon_doller.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_rightarrow.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-hdpi\\icon_rightarrow.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_home.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_home.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_orlando.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-hdpi\\icon_orlando.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_logo_new_england.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable\\logo_new_england.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_home.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-hdpi\\icon_home.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_document.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\icon_document.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_dining.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-hdpi\\icon_dining.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_bg_lt.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\bg_lt.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\font_avenir_std.ttf.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\font\\avenir_std.ttf"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_rides.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-hdpi\\icon_rides.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_scan.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-mdpi\\icon_scan.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_bg_redemption.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\bg_redemption.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_cardsmall_xxxhdpi.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-hdpi\\cardsmall_xxxhdpi.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\anim_rotate_forward.xml.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\anim\\rotate_forward.xml"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_bg_redemption.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xhdpi\\bg_redemption.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_ex.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-hdpi\\icon_ex.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_close.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_close.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_home.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\icon_home.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_fav.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_fav.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_contact.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-mdpi\\icon_contact.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_personal.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-mdpi\\icon_personal.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_toy.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_toy.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_myinterest.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\icon_myinterest.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_animal.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_animal.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_citywalk.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-mdpi\\icon_citywalk.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_baseline_keyboard_arrow_down_black_36.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xhdpi\\baseline_keyboard_arrow_down_black_36.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_doller.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-hdpi\\icon_doller.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_rightarrow.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xhdpi\\icon_rightarrow.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_ticket.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_ticket.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_citywalk.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_citywalk.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ticketspassesbg.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xhdpi\\ticketspassesbg.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_arrow_xxxhdpi.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable\\arrow_xxxhdpi.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_bg_lt.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\bg_lt.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_logo_cedar_point.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable\\logo_cedar_point.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_locker.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-mdpi\\icon_locker.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_strokesearch.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-mdpi\\icon_strokesearch.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\layout_item_ticket.xml.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\layout\\item_ticket.xml"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_bg_lt.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-hdpi\\bg_lt.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_search.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_search.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_tickets.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-hdpi\\icon_tickets.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_close.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_close.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_universal.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-hdpi\\icon_universal.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_baseline_keyboard_arrow_up_black_36.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xhdpi\\baseline_keyboard_arrow_up_black_36.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_baseline_keyboard_backspace_white_24.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_keyboard_backspace_white_24.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_logo_darien_lake.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable\\logo_darien_lake.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_location_24dp.xml.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable\\ic_location_24dp.xml"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_universal.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xhdpi\\icon_universal.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_parking.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-mdpi\\icon_parking.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_lostandfound.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xhdpi\\icon_lostandfound.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_amenties.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_amenties.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\layout_new_home_fragment_sliding.xml.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\layout\\new_home_fragment_sliding.xml"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_ex.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xhdpi\\icon_ex.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_fav.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xhdpi\\icon_fav.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_ticket.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-mdpi\\icon_ticket.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_order_id_login.xml.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\layout\\activity_order_id_login.xml"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_contactinfo.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-hdpi\\icon_contactinfo.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_rightarrow.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_rightarrow.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_buy.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-mdpi\\icon_buy.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_cancel_black_24dp.xml.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable\\ic_cancel_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_gues_services.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xhdpi\\icon_gues_services.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_logo_kings_island.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable\\logo_kings_island.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_things_todo.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_things_todo.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_admin.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-hdpi\\icon_admin.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_scan.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xhdpi\\icon_scan.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_rides.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-mdpi\\icon_rides.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_animal.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\icon_animal.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_admin.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_admin.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_sign_in.xml.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\font_handel_gothic.ttf.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\font\\handel_gothic.ttf"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_communication.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-mdpi\\icon_communication.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_fav.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-mdpi\\icon_fav.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_lostandfound.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_lostandfound.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_specialoffers.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\icon_specialoffers.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_ticket_templet.xml.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\layout\\activity_ticket_templet.xml"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_direction.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xhdpi\\icon_direction.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_roundedrectangles.xml.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable\\roundedrectangles.xml"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_things_todo.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\icon_things_todo.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_alert.xml.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\layout\\activity_alert.xml"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_splash.xml.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_shadow3.xml.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable\\bg_shadow3.xml"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_three_park_logo.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-ldpi\\three_park_logo.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_bg_redemption.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-mdpi\\bg_redemption.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_wallet.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-mdpi\\icon_wallet.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_heading.xml.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable\\bg_heading.xml"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_close.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_close.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_horrornights.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable\\horrornights.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_logo_cheapthrills_foreground.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\mipmap-hdpi\\ic_logo_cheapthrills_foreground.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_contactinfo.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-mdpi\\icon_contactinfo.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_shows.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\icon_shows.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_rides.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_rides.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_ticket.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xhdpi\\icon_ticket.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_strokesearch.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\icon_strokesearch.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_setting.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_setting.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_logo_lings_dominion.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable\\logo_lings_dominion.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_my_profile.xml.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\layout\\fragment_my_profile.xml"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_orlando.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_orlando.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_cf.jpeg.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable\\bg_cf.jpeg"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_address.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xhdpi\\icon_address.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_notification.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\icon_notification.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_create.xml.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\layout\\activity_create.xml"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_citywalk.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xhdpi\\icon_citywalk.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_personal.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_personal.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_tickets.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xhdpi\\icon_tickets.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_ride.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_ride.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_help.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\icon_help.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_baseline_keyboard_arrow_down_black_36.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-hdpi\\baseline_keyboard_arrow_down_black_36.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_parking.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_parking.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_logo_white_water.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable\\logo_white_water.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_buy.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_buy.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_shadow4.xml.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable\\bg_shadow4.xml"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_bg_redemption.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\bg_redemption.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_wallet.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_wallet.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_ripleeffect.xml.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable\\ripleeffect.xml"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_photoid.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-hdpi\\icon_photoid.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_smoking.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-hdpi\\icon_smoking.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_island.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xhdpi\\icon_island.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_wallet.xml.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\layout\\activity_wallet.xml"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_dates.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\icon_dates.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_close.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_close.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_wallet.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-hdpi\\icon_wallet.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_watch.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-hdpi\\icon_watch.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_ticket_templet3.xml.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\layout\\activity_ticket_templet3.xml"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_animal.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-mdpi\\icon_animal.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_contactinfo.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xhdpi\\icon_contactinfo.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_smoking.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_smoking.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_btn.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\icon_btn.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_fistad.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\icon_fistad.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_extras.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xhdpi\\icon_extras.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_communication.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_communication.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_gues_services.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-mdpi\\icon_gues_services.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_logo_cheapthrills_round.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_logo_cheapthrills_round.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_locker.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\icon_locker.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_toy.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-hdpi\\icon_toy.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_carowinds_logo.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable\\ic_carowinds_logo.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_barcode.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-mdpi\\icon_barcode.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_address.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\icon_address.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_fav.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-hdpi\\icon_fav.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_two_park_logo.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-ldpi\\two_park_logo.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_ride.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-hdpi\\icon_ride.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_citywalk.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-hdpi\\icon_citywalk.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_xxxhdpi.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable\\icon_xxxhdpi.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_shows.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-hdpi\\icon_shows.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_locker.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-hdpi\\icon_locker.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_logo_cheapthrills_round.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\mipmap-hdpi\\ic_logo_cheapthrills_round.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_arrow.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-mdpi\\icon_arrow.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\layout_dialog_reminder.xml.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\layout\\dialog_reminder.xml"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_logo_six_flags.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable\\logo_six_flags.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_arrow.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xhdpi\\icon_arrow.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_fistad.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-hdpi\\icon_fistad.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_baseline_keyboard_arrow_up_black_36.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-hdpi\\baseline_keyboard_arrow_up_black_36.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_lostandfound.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-hdpi\\icon_lostandfound.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_my_wallet_screen.xml.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\layout\\activity_my_wallet_screen.xml"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_gues_services.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_gues_services.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_btn.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xhdpi\\icon_btn.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_dates.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-hdpi\\icon_dates.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_wallet.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\icon_wallet.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_buy.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-hdpi\\icon_buy.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_myinterest.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xhdpi\\icon_myinterest.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_tickets.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxhdpi\\icon_tickets.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_barcode.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xhdpi\\icon_barcode.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_logo_cheapthrills_round.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\mipmap-xhdpi\\ic_logo_cheapthrills_round.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_volcano.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_volcano.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_logo_america.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable\\logo_america.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_baseline_keyboard_backspace_white_24.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-mdpi\\baseline_keyboard_backspace_white_24.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_setting.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-hdpi\\icon_setting.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_btn.xml.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable\\bg_btn.xml"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_ride.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-xhdpi\\icon_ride.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_rightarrow.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable-mdpi\\icon_rightarrow.png"
+    },
+    {
+        "merged": "D:\\haroon\\freelance\\ctfinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_logo_six_flags_only.png.flat",
+        "source": "D:\\haroon\\freelance\\ctfinal\\app\\src\\main\\res\\drawable\\logo_six_flags_only.png"
+    }
+]
