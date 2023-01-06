@@ -1,16 +1,6 @@
 <component name="libraryTable">
   <library name="Gradle: com.github.bumptech.glide:glide:4.7.1@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/398626e46937ea87a6a431ccd210a7cc/transformed/jetified-glide-4.7.1/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/398626e46937ea87a6a431ccd210a7cc/transformed/jetified-glide-4.7.1/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/398626e46937ea87a6a431ccd210a7cc/transformed/jetified-glide-4.7.1/AndroidManifest.xml" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8978d9e8ad6114a834b16ce5bb39fca9/transformed/jetified-glide-4.7.1/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/e11874f329d93a4c9f4fe1491a261286/transformed/jetified-glide-4.7.1/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e11874f329d93a4c9f4fe1491a261286/transformed/jetified-glide-4.7.1/AndroidManifest.xml" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e11874f329d93a4c9f4fe1491a261286/transformed/jetified-glide-4.7.1/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3fcddedff5710f23b5d2af689834bd7f/transformed/jetified-glide-4.7.1/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/3fcddedff5710f23b5d2af689834bd7f/transformed/jetified-glide-4.7.1/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3fcddedff5710f23b5d2af689834bd7f/transformed/jetified-glide-4.7.1/AndroidManifest.xml" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ab411cff76b290e5da019f826576aae2/transformed/jetified-glide-4.7.1/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ab411cff76b290e5da019f826576aae2/transformed/jetified-glide-4.7.1/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ab411cff76b290e5da019f826576aae2/transformed/jetified-glide-4.7.1/AndroidManifest.xml" />

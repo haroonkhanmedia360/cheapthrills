@@ -26,6 +26,7 @@ public class UniversalOrlandoPreference {
     public static final String LOGIN_ID = "login_id";
     /*Prefrences Names*/
     public static final String ONCE_LOGGED_IN = "once_logged_in";
+    public static final String IS_LOGGED_IN_NOW = "is_logged_in_now";
     public static final String IS_LOGIN = "is_login";
     public static final String USER_NAME = "user_name";
     public static final String SET_LINK = "set_link";

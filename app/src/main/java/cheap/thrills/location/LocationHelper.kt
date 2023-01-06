@@ -13,7 +13,7 @@ import android.util.Log
 import androidx.core.app.ActivityCompat
 
 class LocationHelper {
-    var LOCATION_REFRESH_TIME = 5000 // 3 seconds. The Minimum Time to get location update
+    var LOCATION_REFRESH_TIME = 3000 // 3 seconds. The Minimum Time to get location update
     var LOCATION_REFRESH_DISTANCE = 0
     lateinit var listener: MyLocationListener
     lateinit var context: Context
@@ -35,7 +35,7 @@ class LocationHelper {
             override fun onStatusChanged(provider: String, status: Int, extras: Bundle) {}
         }
         mLocationManager.requestLocationUpdates(
-            LocationManager.GPS_PROVIDER,
+            LocationManager.NETWORK_PROVIDER,
             LOCATION_REFRESH_TIME.toLong(),
             LOCATION_REFRESH_DISTANCE.toFloat(),
             locationListener

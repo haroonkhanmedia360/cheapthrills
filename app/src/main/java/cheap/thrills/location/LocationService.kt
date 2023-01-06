@@ -109,13 +109,13 @@ class LocationService : Service() {
         }
         if (UniversalOrlandoPreference.readString(
                 this,
-                UniversalOrlandoPreference.ORDER_ID,
+                UniversalOrlandoPreference.LOGGEDIN_ORDERID,
                 ""
             ) != null
         ) {
             orderId = UniversalOrlandoPreference.readString(
                 this,
-                UniversalOrlandoPreference.ORDER_ID,
+                UniversalOrlandoPreference.LOGGEDIN_ORDERID,
                 ""
             )
         }
@@ -138,8 +138,11 @@ class LocationService : Service() {
                 UniversalOrlandoPreference.IS_LOGIN,
                 false
             )
-        )
+        ) {
             status = "online"
+        } else {
+            status = "offline"
+        }
 
         return arrayOf(orderId, userId, name, gid, status)
     }
